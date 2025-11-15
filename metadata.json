@@ -1,0 +1,7 @@
+{
+  "name": "CLA Vendas",
+  "description": "Simplificando Rotinas",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
